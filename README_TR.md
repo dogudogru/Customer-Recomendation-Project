@@ -1,4 +1,4 @@
-<h1 align="center">Müşteri Yönlendirme Projesi</h1>
+<h1 align="center"><a href="https://share.streamlit.io/mertturkyilmaz/customer-recommendation/main/Customer_Recommendation.py">Müşteri Yönlendirme Projesi</a></h1>
 <h3 align=""left"">🛡️ Project Geliştiricileri : </h3>
 <h3 align=""left"">🔭Mert Türkyılmaz</h3>
 <h3 align=""left"">🔭Sarper Yılmaz</h3>
